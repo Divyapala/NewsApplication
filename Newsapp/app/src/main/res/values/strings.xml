@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Newsapp</string>
+    <string-array name="news_sources">
+        <item>India</item>
+        <item>Canada</item>
+        <item>Australia</item>
+        <item>United States</item>
+        <item>France</item>
+        <item>Italy</item>
+        <item>Japan</item>
+        <item>Mexico</item>
+        <item>Poland</item>
+        <item>Switzerland</item>
+    </string-array>
+</resources>
